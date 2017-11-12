@@ -1,4 +1,4 @@
-INTRODUCTION.
+<b>INTRODUCTION.</b>
 
 Ethre is a Micro Crypto Currency from the Ethre Foundation. 
 
