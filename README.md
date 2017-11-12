@@ -6,7 +6,7 @@ Ethre is a Micro Crypto Currency from the Ethre Foundation.
 
 
 
-SPECIFICATIONS.
+<b>SPECIFICATIONS.</b>
 
 1) Total coins 500,000,000 - (500 MILLION MAXIMUM).
 
@@ -30,7 +30,7 @@ SPECIFICATIONS.
 
 
 
-PORTS.
+<b>PORTS.</b>
 
 RPC Port:  8080
 P2P Port:  8081
@@ -39,7 +39,7 @@ P2P Port:  8081
 
 
 
-MORE.
+<b>MORE.</b>
 
 
 
