@@ -8,11 +8,11 @@ Ethre is a Micro Crypto Currency from the Ethre Foundation.
 
 SPECIFICATIONS.
 
-1) Total coins 500,000,000. (500 MILLION MAXIMUM)
+1) Total coins 500,000,000 - (500 MILLION MAXIMUM).
 
 2) Mine on any PC. Egalitarian hash function designed for CPU and GPU mining.
 
-3) Provides complete financial privacy. Use Ring Signatures and One-time Addresses for untraceable and unlikable transactions.
+3) Provides complete financial privacy. Use Ring Signatures and One-time Addresses for untraceable and unlinkable transactions.
 
 4) Minable via solo or pool.
 
