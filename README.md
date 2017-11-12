@@ -1,8 +1,14 @@
+INTRODUCTION.
+
 Ethre is a Micro Crypto Currency from the Ethre Foundation. 
 
-Specifications:
 
-1) Block time ________
+
+
+
+SPECIFICATIONS.
+
+1) Total coins 500,000,000. (500 MILLION MAXIMUM)
 
 2) Mine on any PC. Egalitarian hash function designed for CPU and GPU mining.
 
@@ -17,4 +23,31 @@ Specifications:
 7) Blockchain analysis resistant.
 
 8) True anonymity & data protection.
+
+9) Block time: 120 seconds (2 minutes).
+
+
+
+
+
+PORTS.
+
+RPC Port:  8080
+P2P Port:  8081
+
+
+
+
+
+MORE.
+
+
+
+
+
+
+
+
+
+
 
