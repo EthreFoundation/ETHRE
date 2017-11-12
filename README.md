@@ -33,6 +33,7 @@ Ethre is a Micro Crypto Currency from the Ethre Foundation.
 <b>PORTS.</b>
 
 RPC Port:  8080
+<br>
 P2P Port:  8081
 
 
