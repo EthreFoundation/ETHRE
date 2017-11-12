@@ -43,8 +43,7 @@ P2P Port:  8081
 <b>MORE.</b>
 www.ethre.org
 
-<br>
-<br>
+
 <b>Ethre Foundation.</b>
 
 
